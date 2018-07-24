@@ -1,0 +1,23 @@
+{
+  "name": "arduino-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-blink-blink.js",
+  "dependencies": {
+    "johnny-five": "^0.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianKedzior/arduino-playground.git"
+  },
+  "author": "Damian Kedzior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianKedzior/arduino-playground/issues"
+  },
+  "homepage": "https://github.com/DamianKedzior/arduino-playground#readme"
+}
